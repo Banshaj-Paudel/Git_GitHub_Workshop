@@ -9,3 +9,4 @@
 - Profession: Co-Founder
 - name: famous 
 - sem: 3rd 
+- day: friday
