@@ -6,3 +6,4 @@
 - Course: BCA
 - Semester: 5th
 - GitHub ID: Banshaj-Paudel
+- Profession: Co-Founder
