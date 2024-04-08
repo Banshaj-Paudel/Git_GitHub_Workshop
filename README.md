@@ -11,3 +11,4 @@
 - sem: 3rd 
 - day: friday
 - college : madan bhandari 
+- college: MBMC
