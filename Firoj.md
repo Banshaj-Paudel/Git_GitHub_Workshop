@@ -1,4 +1,4 @@
 - Name : Firoj Paudel
 - Course Title: Bsc. CSIT 
-- College Name: MBMC 
+- College Name: 
 - GitHub Account: Firojpaudel
