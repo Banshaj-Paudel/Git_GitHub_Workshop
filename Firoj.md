@@ -1,0 +1,6 @@
+- Name : Firoj Paudel
+- Course Title: Bsc. CSIT 
+- College Name: MBMC 
+- GitHub Account: Firojpaudel
+- Hello 
+
