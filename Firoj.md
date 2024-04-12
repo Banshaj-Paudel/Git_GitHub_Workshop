@@ -1,4 +1,0 @@
-- Name : Firoj Paudel
-- Course Title: Bsc. CSIT 
-- College Name: 
-- GitHub Account: Firojpaudel
